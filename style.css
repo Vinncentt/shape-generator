@@ -1,0 +1,21 @@
+.div-title{
+    display: flex;
+    flex-direction: column;
+    font-size: ;
+    
+}
+
+.title{
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+}
+
+.input-num{
+    width: 170px;
+}
+
+.input-div{
+    flex-direction: row;
+}
+
